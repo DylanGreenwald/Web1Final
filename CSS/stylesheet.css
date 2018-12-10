@@ -448,7 +448,7 @@ nav div h3 {
   grid-template-rows: repeat(8, 1fr);
   margin-top: 100px;
 }
-.uximage {
+.uximg {
   grid-column-start: 1;
   grid-column-end: 9;
   grid-row-start: 2;
